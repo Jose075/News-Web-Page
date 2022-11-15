@@ -1,0 +1,36 @@
+.imagen
+{
+    width: 50%;
+    margin-left: 25%;
+}
+
+h1
+{
+    margin-left: 110px;
+    margin-right: -50px;
+}
+
+.parrafos
+{
+    font-size: 20px;
+     margin-left: 110px;
+    margin-right: 100px;
+}
+
+.ficha
+{
+    margin-top: 30px;
+     margin-left: 30px;
+}
+
+.carac
+{
+    margin-left: 30px;
+    color: aqua;
+}
+
+h6
+{
+    margin-left: 30px;
+}
+
